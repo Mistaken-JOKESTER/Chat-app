@@ -1,3 +1,5 @@
+//front end
+
 const socket = io()
 
 // Elements
